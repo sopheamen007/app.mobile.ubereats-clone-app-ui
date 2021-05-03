@@ -8,7 +8,7 @@
 
 ## GET A Full Project Source Code
 
-- [Project link here](https://www.patreon.com/posts/50613395)
+- [Download](https://www.patreon.com/posts/50613395)
 
 ![App UI](https://user-images.githubusercontent.com/16510597/116849594-38151e00-ac19-11eb-9cd2-094dd3497cba.png)
 
